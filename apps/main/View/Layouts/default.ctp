@@ -26,11 +26,13 @@ $appTitle = __d('prop', 'Professional Performance | Mobile Healthcare Solutions'
 	<?php echo $this->Html->charset(); ?>
 	<title><?php echo $appTitle ?></title>
 	<?php
+		echo $this->Html->meta(
+				'keywords',
+				'enter any meta keyword here'
+		);
 		echo $this->Html->meta('icon');
 
 		echo $this->Html->css('cake.generic');
-
-		echo $this->fetch('meta');
 		echo $this->fetch('css');
 		echo $this->fetch('script');
 	?>
