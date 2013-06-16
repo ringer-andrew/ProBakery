@@ -353,3 +353,43 @@ Request URL: /asfdasdf/asdf
 Stack Trace:
 #0 C:\Development\Workspace\ProBakery\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2013-06-16 02:33:56 Error: [MissingControllerException] Controller class AsdfController could not be found.
+Exception Attributes: array (
+  'class' => 'AsdfController',
+  'plugin' => NULL,
+)
+Request URL: /asdf
+Stack Trace:
+#0 C:\Development\Workspace\ProBakery\apps\main\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-16 02:34:06 Error: [MissingActionException] Action GlobalController::asdf() could not be found.
+Exception Attributes: array (
+  'controller' => 'GlobalController',
+  'action' => 'asdf',
+)
+Request URL: /global/asdf
+Stack Trace:
+#0 C:\Development\Workspace\ProBakery\Vendor\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Development\Workspace\ProBakery\Vendor\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(GlobalController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Development\Workspace\ProBakery\apps\main\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-06-16 02:35:25 Error: [MissingControllerException] Controller class TestController could not be found.
+Exception Attributes: array (
+  'class' => 'TestController',
+  'plugin' => NULL,
+)
+Request URL: /test
+Stack Trace:
+#0 C:\Development\Workspace\ProBakery\apps\main\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-06-16 02:36:41 Error: [MissingActionException] Action GlobalController::test() could not be found.
+Exception Attributes: array (
+  'controller' => 'GlobalController',
+  'action' => 'test',
+)
+Request URL: /global/test
+Stack Trace:
+#0 C:\Development\Workspace\ProBakery\Vendor\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 C:\Development\Workspace\ProBakery\Vendor\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(GlobalController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\Development\Workspace\ProBakery\apps\main\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
