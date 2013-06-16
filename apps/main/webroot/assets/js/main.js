@@ -701,7 +701,7 @@ $(document).ready(function(){
 	ANUBIS.fancyBox();
 	ANUBIS.map();
 	ANUBIS.flickr();
-	ANUBIS.twitter();
+	// ANUBIS.twitter();
 	ANUBIS.contactForm();
 	ANUBIS.scrollToTop();
 	ANUBIS.changeOpacity();

@@ -22,28 +22,28 @@
 <!--[if IEMobile]>  <meta http-equiv="cleartype" content="on">  <![endif]-->
 
 <!-- Bootstrap -->
-<link href="_include/css/bootstrap.min.css" rel="stylesheet">
+<link href="assets/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
 <!-- Revolution Slider -->
-<link href="_include/rs-plugin/css/settings.css" rel="stylesheet">
+<link href="assets/lib/revolution/css/settings.css" rel="stylesheet">
 
 <!-- Main Style -->
-<link href="_include/css/main.css" rel="stylesheet">
+<link href="assets/lib/anubis/css/main.css" rel="stylesheet">
 
 <!-- FancyBox -->
-<link href="_include/css/fancybox/jquery.fancybox.css" rel="stylesheet">
+<link href="assets/lib/fancybox/css/jquery.fancybox.css" rel="stylesheet">
 
 <!-- Font Icons -->
-<link href="_include/css/fonts.css" rel="stylesheet">
+<link href="assets/font/fonts.css" rel="stylesheet">
 
 <!-- Shortcodes -->
-<link href="_include/css/shortcodes.css" rel="stylesheet">
+<link href="assets/lib/anubis/css/shortcodes.css" rel="stylesheet">
 
 <!-- Responsive -->
-<link href="_include/css/responsive.css" rel="stylesheet">
+<link href="assets/lib/anubis/css/responsive.css" rel="stylesheet">
 
 <!-- Custom CSS -->
-<link href="_include/css/custom.css" rel="stylesheet">
+<link href="assets/css/custom.css" rel="stylesheet">
 
 <!-- Google Font -->
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
@@ -57,7 +57,7 @@
 <link rel="apple-touch-icon" sizes="144x144" href="#">
 
 <!-- Modernizr -->
-<script src="_include/js/modernizr.js"></script>
+<script src="assets/lib/modernizr.js"></script>
 
 <!-- Analytics -->
 <script type="text/javascript">
@@ -138,7 +138,7 @@
             
             	<!-- THE FIRST SLIDE -->
                 <li data-transition="random" data-slotamount="1" data-masterspeed="300">
-                    <img src="_include/img/slider-images/image-01.jpg" alt="Image" data-fullwidthcentering="on">
+                    <img src="assets/img/slider-images/image-01.jpg" alt="Image" data-fullwidthcentering="on">
                     
             		<div class="caption very_big_custom_text lfl stl"
                          data-x="center"
@@ -164,7 +164,7 @@
                 
                 <!-- THE SECOND SLIDE -->
                 <li data-transition="random" data-slotamount="1" data-masterspeed="300">
-                    <img src="_include/img/slider-images/image-02.jpg" alt="Image" data-fullwidthcentering="on">
+                    <img src="assets/img/slider-images/image-02.jpg" alt="Image" data-fullwidthcentering="on">
                     
                     <div class="caption very_big_custom_text sfb"
                          data-x="center"
@@ -190,7 +190,7 @@
                 
                 <!-- THE THIRD SLIDE -->
                 <li data-transition="random" data-slotamount="1" data-masterspeed="300">
-                    <img src="_include/img/slider-images/image-03.jpg" alt="Image" data-fullwidthcentering="on">
+                    <img src="assets/img/slider-images/image-03.jpg" alt="Image" data-fullwidthcentering="on">
                     
                     <div class="caption very_big_custom_text sft"
                          data-x="center"
@@ -287,8 +287,8 @@
                             <span class="arrow-port"></span>
                         </h5>
                         
-                        <a class="hover-wrap fancybox" href="_include/img/portfolio/full/12.jpg" data-fancybox-group="gallery" title="Hummingbird">
-                            <img src="_include/img/portfolio/thumb/12.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit." />
+                        <a class="hover-wrap fancybox" href="assets/img/portfolio/full/12.jpg" data-fancybox-group="gallery" title="Hummingbird">
+                            <img src="assets/img/portfolio/thumb/12.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit." />
                             <div class="overlay"></div>
                             <i class="font-icon-plus"></i>
                         </a>
@@ -300,8 +300,8 @@
                             <span class="arrow-port"></span>
                         </h5>
                         
-                        <a class="hover-wrap fancybox" href="_include/img/portfolio/full/01.jpg" data-fancybox-group="gallery" title="Secret App Icon">
-                            <img src="_include/img/portfolio/thumb/01.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit." />
+                        <a class="hover-wrap fancybox" href="assets/img/portfolio/full/01.jpg" data-fancybox-group="gallery" title="Secret App Icon">
+                            <img src="assets/img/portfolio/thumb/01.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit." />
                             <div class="overlay"></div>
                             <i class="font-icon-plus"></i>
                         </a>
@@ -314,7 +314,7 @@
                         </h5>
                         
                         <a class="hover-wrap fancybox-media" href="http://vimeo.com/50834315" data-fancybox-group="video" title="One Minute Wonder">
-                            <img src="_include/img/portfolio/thumb/05.jpg" alt="One Minute Wonder" />
+                            <img src="assets/img/portfolio/thumb/05.jpg" alt="One Minute Wonder" />
                             <div class="overlay"></div>
                             <i class="font-icon-plus"></i>
                         </a>
@@ -326,8 +326,8 @@
                             <span class="arrow-port"></span>
                         </h5>
                         
-                        <a class="hover-wrap fancybox" href="_include/img/portfolio/full/03.jpg" data-fancybox-group="gallery" title="Hotel.cz Icon">
-                            <img src="_include/img/portfolio/thumb/03.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit." />
+                        <a class="hover-wrap fancybox" href="assets/img/portfolio/full/03.jpg" data-fancybox-group="gallery" title="Hotel.cz Icon">
+                            <img src="assets/img/portfolio/thumb/03.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit." />
                             <div class="overlay"></div>
                             <i class="font-icon-plus"></i>
                         </a>
@@ -340,7 +340,7 @@
                         </h5>
                         
                         <a class="hover-wrap fancybox-media" href="http://vimeo.com/18439821" data-fancybox-group="video" title="ShapeShifter">
-                            <img src="_include/img/portfolio/thumb/06.jpg" alt="ShapeShifter" />
+                            <img src="assets/img/portfolio/thumb/06.jpg" alt="ShapeShifter" />
                             <div class="overlay"></div>
                             <i class="font-icon-plus"></i>
                         </a>
@@ -352,8 +352,8 @@
                             <span class="arrow-port"></span>
                         </h5>
                         
-                        <a class="hover-wrap fancybox" href="_include/img/portfolio/full/11.jpg" data-fancybox-group="gallery" title="Mail">
-                            <img src="_include/img/portfolio/thumb/11.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit." />
+                        <a class="hover-wrap fancybox" href="assets/img/portfolio/full/11.jpg" data-fancybox-group="gallery" title="Mail">
+                            <img src="assets/img/portfolio/thumb/11.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit." />
                             <div class="overlay"></div>
                             <i class="font-icon-plus"></i>
                         </a>
@@ -383,7 +383,7 @@
             <article class="post span4">
                 <div class="post-thumb">
                     <a class="hover-post" href="blog-single.html">
-                        <img src="_include/img/misc/08-t.jpg" alt="Image Preview" />
+                        <img src="assets/img/misc/08-t.jpg" alt="Image Preview" />
                         <div class="overlay"></div>
                         <i class="font-icon-link"></i>
                     </a>
@@ -408,7 +408,7 @@
             <article class="post span4">
                 <div class="post-thumb">
                     <a class="hover-post" href="blog-single.html">
-                        <img src="_include/img/misc/09-t.jpg" alt="Image Preview" />
+                        <img src="assets/img/misc/09-t.jpg" alt="Image Preview" />
                         <div class="overlay"></div>
                         <i class="font-icon-link"></i>
                     </a>
@@ -433,7 +433,7 @@
             <article class="post span4">
                 <div class="post-thumb">
                     <a class="hover-post" href="blog-single.html">
-                        <img src="_include/img/misc/10-t.jpg" alt="Image Preview" />
+                        <img src="assets/img/misc/10-t.jpg" alt="Image Preview" />
                         <div class="overlay"></div>
                         <i class="font-icon-link"></i>
                     </a>
@@ -513,18 +513,18 @@
 <!-- Js -->
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script> <!-- jQuery Core -->
 <script src="https://maps.googleapis.com/maps/api/js?sensor=true"></script> <!-- Google Map API -->
-<script src="_include/js/bootstrap.min.js"></script> <!-- Bootstrap -->
-<script src="_include/rs-plugin/js/jquery.themepunch.revolution.min.js"></script> <!-- Revolution Slider -->
-<script src="_include/rs-plugin/js/jquery.themepunch.plugins.min.js"></script> <!-- Revolution Slider -->
-<script src="_include/js/jquery.superfish.min.js"></script> <!-- Superfish -->
-<script src="_include/js/jquery.supersubs.min.js"></script> <!-- Supersubs -->
-<script src="_include/js/jquery.isotope.js"></script> <!-- Isotope Filter -->
-<script src="_include/js/jquery.fancybox.pack.js"></script> <!-- Fancybox -->
-<script src="_include/js/jquery.fancybox-media.js"></script> <!-- Fancybox for Media -->
-<script src="_include/js/jquery.tweet.js"></script> <!-- Tweet -->
-<script src="_include/js/jquery.flickr.min.js"></script> <!-- Flickr -->
-<script src="_include/js/plugins.js"></script> <!-- Contains: jQuery Easing, jQuery ScrollTo -->
-<script src="_include/js/main.js"></script> <!-- Default JS -->
+<script src="assets/lib/bootstrap/js/bootstrap.min.js"></script> <!-- Bootstrap -->
+<script src="assets/lib/revolution/js/jquery.themepunch.revolution.min.js"></script> <!-- Revolution Slider -->
+<script src="assets/lib/revolution/js/jquery.themepunch.plugins.min.js"></script> <!-- Revolution Slider -->
+<script src="assets/lib/jquery.superfish.min.js"></script> <!-- Superfish -->
+<script src="assets/lib/jquery.supersubs.min.js"></script> <!-- Supersubs -->
+<script src="assets/lib/jquery.isotope.js"></script> <!-- Isotope Filter -->
+<script src="assets/lib/fancybox/js/jquery.fancybox.pack.js"></script> <!-- Fancybox -->
+<script src="assets/lib/fancybox/js/jquery.fancybox-media.js"></script> <!-- Fancybox for Media -->
+<script src="assets/lib/jquery.tweet.js"></script> <!-- Tweet -->
+<script src="assets/lib/jquery.flickr.min.js"></script> <!-- Flickr -->
+<script src="assets/lib/plugins.js"></script> <!-- Contains: jQuery Easing, jQuery ScrollTo -->
+<script src="assets/js/main.js"></script> <!-- Default JS -->
 <!-- End Js -->
 
 </body>
