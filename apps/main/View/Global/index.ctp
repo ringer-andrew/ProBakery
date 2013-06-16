@@ -1,0 +1,1 @@
+This is Global/index.ctp
