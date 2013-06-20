@@ -21,6 +21,9 @@ $appTitle = __d('prop', 'Professional Performance | Mobile Healthcare Solutions'
 
 ?>
 
-
+[HEADER SOON TO BE HERE]
 
 <?php echo $this->fetch('content'); ?>
+
+
+[FOOTER SOON TO BE HERE]
