@@ -17,6 +17,7 @@ Dependencies
 	<dt>UI</dt>
 </dl>
 * [Bootstrap 2.3.2](http://twitter.github.io/bootstrap/)
+* [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
 
 Directory Structure
 ---------------------------
