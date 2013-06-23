@@ -1,3 +1,9 @@
+<!-- Back To Top -->
+<a id="back-to-top" href="#">
+	<i class="font-icon-arrow-simple-up"></i>
+</a>
+<!-- End Back to Top -->
+
 <footer>
 	<div class="container">
     	<div class="row">
