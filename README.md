@@ -9,12 +9,14 @@ Dependencies
 <dl>
 	<dt>Libraries</dt>
 </dl>
-* Modernizr 2.6.2 Custom [98d877fe87](https://github.com/Modernizr/Modernizr)
-
+* [Modernizr 2.6.2 Custom](https://github.com/Modernizr/Modernizr)
+* [Less 1.3.3](http://lesscss.org/)
+* * [Less Elements 0.9](http://lesselements.com/)
 
 <dl>
 	<dt>UI</dt>
 </dl>
+* [Bootstrap 2.3.2](http://twitter.github.io/bootstrap/)
 
 Directory Structure
 ---------------------------

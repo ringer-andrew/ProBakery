@@ -38,7 +38,10 @@
 <!-- Icons -->
 <!-- Font Icons --> <link href="assets/font/fonts.min.css" rel="stylesheet">
 
-<!-- Custom CSS --> <link href="assets/css/custom.css" rel="stylesheet">
+<!-- LESS -->
+<link rel="stylesheet/less" type="text/css" href="assets/less/main.less" />
+
+<!-- LESS --> <script src="assets/lib/less-1.3.3.min.js"></script>
 
 <!-- Font -->
 <!-- Google Font --> <link href='assets/font/fonts-google.min.css' rel='stylesheet' type='text/css'>
