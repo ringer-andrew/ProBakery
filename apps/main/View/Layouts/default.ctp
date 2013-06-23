@@ -29,17 +29,22 @@
 
 <!-- CSS -->
 <!-- Bootstrap --> <link href="assets/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-<!-- Main Style --> <link href="assets/lib/anubis/css/main.css" rel="stylesheet">
-<!-- Font Icons --> <link href="assets/font/fonts.css" rel="stylesheet">
-<!-- Shortcodes --> <link href="assets/lib/anubis/css/shortcodes.css" rel="stylesheet">
+
+<!-- Anubis -->
+<!-- Main Style --> <link href="assets/lib/anubis/css/main.min.css" rel="stylesheet">
+<!-- Shortcodes --> <link href="assets/lib/anubis/css/shortcodes.min.css" rel="stylesheet">
 <!-- Responsive --> <link href="assets/lib/anubis/css/responsive.css" rel="stylesheet">
+
+<!-- Icons -->
+<!-- Font Icons --> <link href="assets/font/fonts.min.css" rel="stylesheet">
+
 <!-- Custom CSS --> <link href="assets/css/custom.css" rel="stylesheet">
 
 <!-- Font -->
 <!-- Google Font --> <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
 
 <!-- Scripts -->
-<!-- Modernizr --> <script src="assets/lib/modernizr.js"></script>
+<!-- Modernizr --> <script src="assets/lib/modernizr-2.5.3.min.js"></script>
 
 </head>
 <body>
@@ -59,16 +64,10 @@
 
 <!-- Js -->
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script> <!-- jQuery Core -->
-<script src="https://maps.googleapis.com/maps/api/js?sensor=true"></script> <!-- Google Map API -->
 <script src="assets/lib/bootstrap/js/bootstrap.min.js"></script> <!-- Bootstrap -->
 <script src="assets/lib/jquery.superfish.min.js"></script> <!-- Superfish -->
 <script src="assets/lib/jquery.supersubs.min.js"></script> <!-- Supersubs -->
-<script src="assets/lib/jquery.isotope.js"></script> <!-- Isotope Filter -->
-<script src="assets/lib/fancybox/js/jquery.fancybox.pack.js"></script> <!-- Fancybox -->
-<script src="assets/lib/fancybox/js/jquery.fancybox-media.js"></script> <!-- Fancybox for Media -->
-<script src="assets/lib/jquery.tweet.js"></script> <!-- Tweet -->
-<script src="assets/lib/jquery.flickr.min.js"></script> <!-- Flickr -->
-<script src="assets/lib/plugins.js"></script> <!-- Contains: jQuery Easing, jQuery ScrollTo -->
+<script src="assets/lib/plugins.min.js"></script> <!-- Contains: jQuery Easing, jQuery ScrollTo -->
 <script src="assets/js/main.js"></script> <!-- Default JS -->
 <!-- End Js -->
 
