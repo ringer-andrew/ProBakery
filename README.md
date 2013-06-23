@@ -9,7 +9,7 @@ Dependencies
 <dl>
 	<dt>Libraries</dt>
 </dl>
-* Modernizr 2.6.2 [98d877fe87](https://github.com/Modernizr/Modernizr)
+* Modernizr 2.6.2 Custom [98d877fe87](https://github.com/Modernizr/Modernizr)
 
 
 <dl>
