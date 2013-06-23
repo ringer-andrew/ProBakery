@@ -41,7 +41,7 @@
 <!-- Custom CSS --> <link href="assets/css/custom.css" rel="stylesheet">
 
 <!-- Font -->
-<!-- Google Font --> <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
+<!-- Google Font --> <link href='assets/font/fonts-google.min.css' rel='stylesheet' type='text/css'>
 
 <!-- Scripts -->
 <!-- Modernizr --> <script src="assets/lib/modernizr.custom.95163-2.6.2.min.js"></script>
