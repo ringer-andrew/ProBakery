@@ -393,3 +393,12 @@ Stack Trace:
 #1 C:\Development\Workspace\ProBakery\Vendor\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(GlobalController), Object(CakeRequest), Object(CakeResponse))
 #2 C:\Development\Workspace\ProBakery\apps\main\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #3 {main}
+2013-06-20 13:56:16 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/lib/anubis/img/menu-mobile.png
+Stack Trace:
+#0 C:\Development\Workspace\ProBakery\apps\main\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}

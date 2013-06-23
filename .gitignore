@@ -2,15 +2,29 @@
 #################################################
 /apps/main/Config/database.php
 /apps/main/tmp
-/lib/Cake/Console/Templates/skel/tmp/
-/plugins
+/Vendor/Cake/Console/Templates/skel/tmp/
 /vendors
 /build
 /dist
 /tags
-/.settings
-.project
-.buildpath
+
+apps/main/tmp
+apps/main/tmp/
+apps/main/tmp/*
+/apps/main/tmp
+/apps/main/tmp/
+/apps/main/tmp/*
+
+apps\main\tmp
+apps\main\tmp\
+apps\main\tmp\*
+\apps\main\tmp
+\apps\main\tmp\
+\apps\main\tmp\*
+
+
+# Eclipse genrated files #
+.settings
 
 # OS generated files #
 ######################
