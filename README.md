@@ -1,39 +1,46 @@
-CakePHP
+ProBakery
 =======
 
-[![CakePHP](http://cakephp.org/img/cake-logo.png)](http://www.cakephp.org)
+Professional Performance builds simple, innovative, and secure mobile platforms at the heart of your HealthCare IT. We empower organizations to better collaborate with their remote workforce in the field, make smarter decisions and improve the quality of care.
 
-CakePHP is a rapid development framework for PHP which uses commonly known design patterns like Active Record, Association Data Mapping, Front Controller and MVC.
-Our primary goal is to provide a structured framework that enables PHP users at all levels to rapidly develop robust web applications, without any loss to flexibility.
-
-Some Handy Links
-----------------
-
-[CakePHP](http://www.cakephp.org) - The rapid development PHP framework
-
-[Cookbook](http://book.cakephp.org) - THE Cake user documentation; start learning here!
-
-[Plugins](http://plugins.cakephp.org/) - A repository of extensions to the framework
-
-[The Bakery](http://bakery.cakephp.org) - Tips, tutorials and articles
-
-[API](http://api.cakephp.org) - A reference to Cake's classes
-
-[CakePHP TV](http://tv.cakephp.org) - Screen casts from events and video tutorials
-
-[The Cake Software Foundation](http://cakefoundation.org/) - promoting development related to CakePHP
-
-Get Support!
+Dependencies
 ------------
 
-[Our Google Group](http://groups.google.com/group/cake-php) - community mailing list and forum
+<dl>
+	<dt>Libraries</dt>
+</dl>
+* Modernizr 2.6.2 [98d877fe87](https://github.com/Modernizr/Modernizr)
 
-[#cakephp](http://webchat.freenode.net/?channels=#cakephp) on irc.freenode.net - Come chat with us, we have cake.
 
-[Q & A](http://ask.cakephp.org/) - Ask questions here, all questions welcome
+<dl>
+	<dt>UI</dt>
+</dl>
 
-[Lighthouse](http://cakephp.lighthouseapp.com/) - Got issues? Please tell us!
+Directory Structure
+---------------------------
 
-[![Bake Status](https://secure.travis-ci.org/cakephp/cakephp.png?branch=master)](http://travis-ci.org/cakephp/cakephp)
+	  |-src/
+	  |-assets/ ........... platform code for supported operating systems
+      | |-www/
+      | | |-app/
+      | | |-assets/
+      | | |-config/
+      | | |-i18n/
+      | | |-modules/
+      | | |-res/
+      | | |-config.xml
+      | | |-icon.png
+      | | |-index.html
+	  |-bin/
+	  |-cordova/
+	  |-libs/
+      |-res/
+	  '-README.md ..... release readme
 
-![Cake Power](https://raw.github.com/cakephp/cakephp/master/lib/Cake/Console/Templates/skel/webroot/img/cake.power.gif)
+Credits
+-------
+
+* [Andrew Ringer](http://www.linkedin.com/in/ringer)
+* [Cameron Lindsay](http://ca.linkedin.com/in/crlindsay)
+
+Copyright © Professional Performance Inc. 2013 All Rights Reserved. No part of this website may be reproduced without Professional Performance Inc.'s express consent. (http://professionalperformance.ca)
