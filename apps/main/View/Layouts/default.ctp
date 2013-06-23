@@ -29,9 +29,7 @@
 
 <!-- CSS -->
 <!-- Bootstrap --> <link href="assets/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-<!-- Revolution Slider --> <link href="assets/lib/revolution/css/settings.css" rel="stylesheet">
 <!-- Main Style --> <link href="assets/lib/anubis/css/main.css" rel="stylesheet">
-<!-- FancyBox --> <link href="assets/lib/fancybox/css/jquery.fancybox.css" rel="stylesheet">
 <!-- Font Icons --> <link href="assets/font/fonts.css" rel="stylesheet">
 <!-- Shortcodes --> <link href="assets/lib/anubis/css/shortcodes.css" rel="stylesheet">
 <!-- Responsive --> <link href="assets/lib/anubis/css/responsive.css" rel="stylesheet">
@@ -63,8 +61,6 @@
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script> <!-- jQuery Core -->
 <script src="https://maps.googleapis.com/maps/api/js?sensor=true"></script> <!-- Google Map API -->
 <script src="assets/lib/bootstrap/js/bootstrap.min.js"></script> <!-- Bootstrap -->
-<script src="assets/lib/revolution/js/jquery.themepunch.revolution.min.js"></script> <!-- Revolution Slider -->
-<script src="assets/lib/revolution/js/jquery.themepunch.plugins.min.js"></script> <!-- Revolution Slider -->
 <script src="assets/lib/jquery.superfish.min.js"></script> <!-- Superfish -->
 <script src="assets/lib/jquery.supersubs.min.js"></script> <!-- Supersubs -->
 <script src="assets/lib/jquery.isotope.js"></script> <!-- Isotope Filter -->
