@@ -28,7 +28,7 @@
 <!--[if IEMobile]>  <meta http-equiv="cleartype" content="on">  <![endif]-->
 
 <!-- CSS -->
-<!-- Bootstrap --> <link href="assets/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<!-- Bootstrap --> <link href="assets/lib/bootstrap/css/bootstrap-2.3.2.min.css" rel="stylesheet">
 
 <!-- Anubis -->
 <!-- Main Style --> <link href="assets/lib/anubis/css/main.min.css" rel="stylesheet">
@@ -63,10 +63,10 @@
 <!-- Footer Scripts -->
 
 <!-- Js -->
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script> <!-- jQuery Core -->
-<script src="assets/lib/bootstrap/js/bootstrap.min.js"></script> <!-- Bootstrap -->
-<script src="assets/lib/jquery.superfish.min.js"></script> <!-- Superfish -->
-<script src="assets/lib/jquery.supersubs.min.js"></script> <!-- Supersubs -->
+<script src="assets/lib/jquery/jquery-2.0.2.min.js"></script> <!-- jQuery Core -->
+<script src="assets/lib/bootstrap/js/bootstrap-2.3.2.min.js"></script> <!-- Bootstrap -->
+<script src="assets/lib/jquery/plugins/jquery.superfish.min.js"></script> <!-- Superfish -->
+<script src="assets/lib/jquery/plugins/jquery.supersubs.min.js"></script> <!-- Supersubs -->
 <script src="assets/lib/plugins.min.js"></script> <!-- Contains: jQuery Easing, jQuery ScrollTo -->
 <script src="assets/js/main.js"></script> <!-- Default JS -->
 <!-- End Js -->
