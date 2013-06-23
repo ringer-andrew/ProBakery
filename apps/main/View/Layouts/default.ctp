@@ -28,15 +28,16 @@
 <!--[if IEMobile]>  <meta http-equiv="cleartype" content="on">  <![endif]-->
 
 <!-- CSS -->
-<!-- Bootstrap --> <link href="assets/lib/bootstrap/css/bootstrap-2.3.2.min.css" rel="stylesheet">
+<!-- Bootstrap --> <link rel="stylesheet" href="assets/lib/bootstrap/css/bootstrap-2.3.2.min.css">
 
 <!-- Anubis -->
-<!-- Main Style --> <link href="assets/lib/anubis/css/main.min.css" rel="stylesheet">
-<!-- Shortcodes --> <link href="assets/lib/anubis/css/shortcodes.min.css" rel="stylesheet">
-<!-- Responsive --> <link href="assets/lib/anubis/css/responsive.css" rel="stylesheet">
+<!-- Main Style --> <link rel="stylesheet" href="assets/lib/anubis/css/main.min.css">
+<!-- Shortcodes --> <link rel="stylesheet" href="assets/lib/anubis/css/shortcodes.min.css">
+<!-- Responsive --> <link rel="stylesheet" href="assets/lib/anubis/css/responsive.css">
 
 <!-- Icons -->
-<!-- Font Icons --> <link href="assets/font/fonts.min.css" rel="stylesheet">
+<!-- Font Icons --> <link rel="stylesheet" href="assets/font/fonts.min.css">
+<!-- Font Aesome --><link rel="stylesheet" href="assets/lib/font-awesome/css/font-awesome.min.css">
 
 <!-- LESS -->
 <link rel="stylesheet/less" type="text/css" href="assets/less/main.less" />
@@ -44,7 +45,7 @@
 <!-- LESS --> <script src="assets/lib/less-1.3.3.min.js"></script>
 
 <!-- Font -->
-<!-- Google Font --> <link href='assets/font/fonts-google.min.css' rel='stylesheet' type='text/css'>
+<!-- Google Font --> <link rel="stylesheet" type="text/css" href="assets/font/fonts-google.min.css">
 
 <!-- Scripts -->
 <!-- Modernizr --> <script src="assets/lib/modernizr.custom.95163-2.6.2.min.js"></script>
