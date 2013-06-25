@@ -3,6 +3,8 @@ ProBakery
 
 Professional Performance builds simple, innovative, and secure mobile platforms at the heart of your HealthCare IT. We empower organizations to better collaborate with their remote workforce in the field, make smarter decisions and improve the quality of care.
 
+Simple test update.
+
 Dependencies
 ------------
 
@@ -46,4 +48,4 @@ Credits
 * [Andrew Ringer](http://www.linkedin.com/in/ringer)
 * [Cameron Lindsay](http://ca.linkedin.com/in/crlindsay)
 
-Copyright © Professional Performance Inc. 2013 All Rights Reserved. No part of this website may be reproduced without Professional Performance Inc.'s express consent. (http://professionalperformance.ca)
+Copyright ï¿½ Professional Performance Inc. 2013 All Rights Reserved. No part of this website may be reproduced without Professional Performance Inc.'s express consent. (http://professionalperformance.ca)
