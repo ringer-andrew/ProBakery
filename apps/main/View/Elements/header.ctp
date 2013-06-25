@@ -1,13 +1,13 @@
 <header>
 	<div class="container">
     	<div class="row">
-        	<div class="span2">
+        	<div class="span4">
             	<div id="logo">
-        			<a href="index.html" title="Anubis">Anubis</a>
+        			<a href="index.html" title="Anubis">PROFESSIONAL PERFORMAN</a>
         		</div>
             </div>
             
-            <div class="span10">
+            <div class="span8">
             	<!-- Mobile Menu -->
             	<a id="mobile-nav" class="menu-nav" href="#menu-nav"><span class="menu-icon"></span></a>
                 
