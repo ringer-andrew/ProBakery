@@ -21,7 +21,7 @@
 	<div class="container-fluid">
     	<div class="row-fluid">
         	<div class="span12 intro">
-            	<h3>Buzz</h3>
+            	<h3><i class="icon-flag-alt"></i> Buzz</h3>
                 
             </div>
         </div>

@@ -27,7 +27,36 @@
  * to use (in this case, /app/View/Pages/home.ctp)...
  */
 	Router::connect('/', array('controller' => 'pages', 'action' => 'index'));
-	Router::connect('/about', array('controller' => 'about', 'action' => 'index'));
+	Router::connect('/about', array('controller' => 'pages', 'action' => 'about'));
+    Router::connect('/contact', array('controller' => 'pages', 'action' => 'contact'));
+    
+    
+    
+    /* ProBakery Routes
+    
+    professionalperformance.ca/{home}
+        /about-us
+        /careers
+        /press-kit
+        /news-room
+        /contact
+        
+    healthplanr.com/{home}
+        /features
+        /roi
+        ...
+    
+    curedocs.com/{home}
+        /features
+        /roi
+        ...
+    
+    
+    
+    
+    
+    
+    */
 /**
  * ...and connect the rest of 'Pages' controller's urls.
  */

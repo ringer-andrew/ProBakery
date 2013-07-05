@@ -79,4 +79,18 @@ class PagesController extends AppController {
 	public function index() {
 	
 	}
+    
+    /*
+     * About View
+     */
+    public function about() {
+        
+    }
+    
+    /*
+     * Contact View
+     */
+    public function contact() {
+        
+    }
 }
