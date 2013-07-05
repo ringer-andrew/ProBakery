@@ -6,6 +6,8 @@
 @import "helpers/variables.less"; // variables
 
 
+
+
 /* ==========================================================================
    Helper Styles
    ========================================================================== */
@@ -14,10 +16,11 @@
 /* ==========================================================================
    Global Styles
    ========================================================================== */
+.container-fluid {padding:0px;}
 
 body {
     margin-top: 100px;
-    
+  
     header {
         background: none white;
         .container-fluid {
@@ -25,7 +28,7 @@ body {
             
             .row-fluid {
                 .brand {
-                    background: none #1F8A70; min-width: 373px;
+                    background: none #1F8A70; min-width: 373px; text-align:center;
                 }
                 
                 .nav-bar {
@@ -42,6 +45,7 @@ body {
     }
 }
 
+  #slider { height:300px; overflow:hidden;}
 
 
 #mobile-nav { background: none #1F8A70;}
@@ -52,7 +56,7 @@ li a { color: #1F8A70;}}
 }
 
 
-.box { background: none #F2F2F2; padding: 0px;}
+.box { background: none #F2F2F2; padding: 0px; height: 420px; }
 
 .icon { width: 100%;
 padding:50px 0 50px 0;
@@ -68,7 +72,7 @@ padding:50px 0 50px 0;
 .securehealth { background: none #4744d5;}
 .nursetalk { background: none #ddb100;}
 
-#quote {background: none #1F8A70; margin:auto; width:100%;
+#quote {background: none #1F8A70; margin:auto; width:100%; padding-top:30px; padding-bottom:30px;
 
 .quote { 
 h3 {padding: 10px 10px 10px 10px; border-style:solid; border-width:1px; border-color: white; color: white; text-align: center; margin-top:20px;}
@@ -76,17 +80,24 @@ h3 {padding: 10px 10px 10px 10px; border-style:solid; border-width:1px; border-c
 }
 }
 
-#tweet {background: none; margin:auto; width:100%;
+#tweet { margin:auto; padding:80px 0px 80px; width:100%; background-image:url("http://files-40f3c3d.professionalperformance.ca/img/slider/6N8A1013.jpg");
+.twitter {width:100%;}
+.twitter-timeline { width:45%; margin:auto;
 
-.tweet { 
-h3 {padding: 10px 10px 10px 10px; text-align: center; margin-top:20px;}
+}
+
+}
+
+
+footer {padding: 50px 50px 30px 50px; text-align: center; font-size:100%;
+background: none #1F8A70;
+.span4{color:white; height:220px; h4 {color:white;}
+h6 {color:white;}}
+.footer{color:white; padding-right:50px; border-right: thin solid white ;  height:220px;
 
 }
 }
 
-footer {padding: 20px 0px 5px;}
-.footer-about {color:white; 
-h4 {color:white;}}
 /* ==========================================================================
    Global Mobile Styles
    ========================================================================== */
