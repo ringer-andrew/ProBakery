@@ -21,7 +21,7 @@
 	<div class="container-fluid">
     	<div class="row-fluid">
         	<div class="span12 intro">
-            	<h3><i class="icon-flag-alt"></i> Buzz</h3>
+            	<h3>Buzz</h3>
                 
             </div>
         </div>
@@ -116,6 +116,16 @@
                 
                 
             </div>
+        </div>
+    </div>
+</section>
+<!-- End tweet Box-->
+
+<!-- Tweet box -->
+<section id="map" class="margin-80">
+    <div class="container-fluid">
+        <div class="row-fluid">
+           <iframe width="100%" height="350px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.ca/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=2430+Meadowpine+Blvd,+Suite+101,+Mississauga,+ON+L5N+6S2,+Canada&amp;aq=&amp;sll=43.415527,-80.20478&amp;sspn=1.645926,3.56781&amp;ie=UTF8&amp;hq=&amp;hnear=2430+Meadowpine+Blvd+%23101,+Mississauga,+Ontario+L5N+6S2&amp;t=m&amp;z=14&amp;ll=43.603704,-79.772887&amp;output=embed"></iframe><br /><small><a href="https://maps.google.ca/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=2430+Meadowpine+Blvd,+Suite+101,+Mississauga,+ON+L5N+6S2,+Canada&amp;aq=&amp;sll=43.415527,-80.20478&amp;sspn=1.645926,3.56781&amp;ie=UTF8&amp;hq=&amp;hnear=2430+Meadowpine+Blvd+%23101,+Mississauga,+Ontario+L5N+6S2&amp;t=m&amp;z=14&amp;ll=43.603704,-79.772887" style="color:#0000FF;text-align:left">View Larger Map</a></small>
         </div>
     </div>
 </section>
