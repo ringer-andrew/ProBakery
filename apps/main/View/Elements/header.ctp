@@ -16,19 +16,17 @@
                     <ul id="menu-nav">
                         <li><a href="elements.html">Our Services</a>
                         	<ul class="sub-menu arrow-up">
-                                <li><a href="full-width.html">HealthPLANR</a></li>
-                                <li><a href="about.html">CureDOCS</a></li>
-                                <li><a href="team.html">HealthManager</a></li>
+                                <li><a href="healthplanr.ctp">HealthPlanr</a></li>
+                                <li><a href="curedocs.ctp">CureDOCS</a></li>
+                                <li><a href="cureops.ctp">CureOps</a></li>
 
                             </ul>
                         </li>
                         
-                        <li><a href="blog.html">Blog</a>
-                        	<ul class="sub-menu">
-                            	<li><a href="blog-single.html">Single Post</a></li>
-                            </ul>
+                        <li><a href="blog.ctp">Blog</a>
+                        	
                         </li>
-                        <li><a href="contact.html">Contact</a></li>
+                        <li><a href="contact.ctp">Contact</a></li>
                     </ul>
                 </nav>
         	</div>

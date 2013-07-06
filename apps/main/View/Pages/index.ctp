@@ -10,15 +10,6 @@
         </section>
 <!-- End Slider -->
 
-<!-- Start Clients -->
-<div class="container-fluid">
-        <div class="row-fluid">
-            <div class="span12">
-            </div>
-        </div>
-        </div>
-<!-- End Clients-->
-
 <!-- Start Intro Box -->
 <section id="intro-box" class="margin-80">
 	<div class="container-fluid">
@@ -93,6 +84,8 @@
     </div>
 </section>
 <!-- End Services Box -->
+
+
 
 <!-- Quote box -->
 <section id="quote">
