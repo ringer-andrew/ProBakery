@@ -29,6 +29,10 @@
 	Router::connect('/', array('controller' => 'pages', 'action' => 'index'));
 	Router::connect('/about', array('controller' => 'pages', 'action' => 'about'));
     Router::connect('/contact', array('controller' => 'pages', 'action' => 'contact'));
+    Router::connect('/career', array('controller'=>'pages', 'action'=>'career'));
+    Router::connect('/FAQ', array('controller'=>'pages', 'action'=>'FAQ'));
+    Router::connect('/success', array('controller'=>'pages', 'action'=>'success'));
+   
     
     
     

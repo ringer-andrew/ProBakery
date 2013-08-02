@@ -1,15 +1,34 @@
 <!-- Contact Section -->
-<section id="contact">
+<section class="upsection">
     <div class="container-fluid">
         <!-- Title Page -->
+      <div id="upsection"> 
+          <div class="span5">
+             <p class="contact-line">Talk to us to learn more about how we can help</p>
+          </div>
+          
+          <div class="span7"></div>
+      </div>    
+                         
+</section>       
+       
+
+<section id="contact">       
+       
+       
+      
+       
         <div class="row-fluid contact-header">
             <div class="span8 offset2">
-                <h3>Have a question? Please ask us!</h3>
-                
-                <p>Need to get in touch? To contact our experts and discuss a solution for your organization, infrastructure & security, or request a demo please complete the form bellow.
-Or give us a call at <b>1 (800) 296-7184</b></p>
-            </div>
+                <h3>Have a question? Ask us!</h3>
+           </div>
+             
         </div>
+        
+        <div class="banner">
+           </div>
+        
+       
         <!-- End Title Page -->
         
         <!-- Contact Form -->
@@ -41,18 +60,59 @@ Or give us a call at <b>1 (800) 296-7184</b></p>
             <!-- Contact Details -->
             <div class="span2">
                 <div class="contact-details">
-                    <h4>Contact Details</h4>
+                    
                     <ul>
-                        <li><a href="#">awesome@professionalperformance.ca</a></li>
-                        <li>1 (800) 296-7184 Ext. 1</li>
-                        <li>
-                            Professional Performance
-                            <br>
-                            2430 Meadowpine Blvd, Suite 101,
-
-                            <br>
-                         Mississauga, ON L5N 6S2, Canada
-                        </li>
+                       <li>
+                         <h4>Head Office</h4>
+                    
+                          <p class="address-color">2430 Meadowpine Blvd, Suite, 101,</br>
+                             Mississauga, ON L5N 6S2, Canada</br>
+                             1(800)296-7184</p>
+                       </li>
+                    
+                       <li>
+                         <h4>Kitchener Branch</h4>
+                    
+                          <p class="address-color">2430 Meadowpine Blvd, Suite, 101,</br>
+                             Mississauga, ON L5N 6S2, Canada</br>
+                             1(800)296-7184</p>
+                       </li>
+                       
+                       <li>
+                         <h4>Kitchener Branch</h4>
+                    
+                          <p class="address-color">2430 Meadowpine Blvd, Suite, 101,</br>
+                             Mississauga, ON L5N 6S2, Canada</br>
+                             1(800)296-7184</p>
+                       </li> 
+                       
+                       <li>
+                         <h4>Toronto Branch</h4>
+                    
+                          <p class="address-color">2430 Meadowpine Blvd, Suite, 101,</br>
+                             Mississauga, ON L5N 6S2, Canada</br>
+                             1(800)296-7184</p>
+                       </li>
+                       
+                       <li>
+                         <h4>Montreal Branch</h4>
+                    
+                          <p class="address-color">2430 Meadowpine Blvd, Suite, 101,</br>
+                             Mississauga, ON L5N 6S2, Canada</br>
+                             1(800)296-7184</p>
+                       </li>
+                   
+                       <li>
+                         <h4>General Inquiries</h4>
+                    
+                          <p class="address-color">awesomeprofessionalperformance.ca</br>
+                          
+                             1(800)296-7184</p>
+                       </li>
+                       
+                      
+                       
+                       
                     </ul>
                 </div>
             </div>
@@ -60,6 +120,97 @@ Or give us a call at <b>1 (800) 296-7184</b></p>
             
         </div>
         <!-- End Contact Form -->
+        
+         <div class="row-fluid form background">
+            <div class="span5 offset2">
+                <h4 class="form-heading">Schedule a demo</h4>
+                <p id="form-subheading">Let us connect with your organization</p>
+            
+              <form class="form-horizontal left-shift">
+                  <div class="control-group">
+                       <label class="control-label">Your Name</label>
+                            <div class="controls">
+                                   <input type="text" placeholder="Your Name">
+                           </div>
+                  </div>
+  
+                  <div class="control-group">
+                         <label class="control-label">Company Name</label>
+                               <div class="controls">
+                                     <input type="text" placeholder="Company Name">
+                               </div>
+                  </div> 
+  
+                  <div class="control-group">
+                         <label class="control-label">Title</label>
+                                <div class="controls">
+                                    <input type="text" placeholder="Title">
+                                </div>
+                  </div>
+ 
+                  <div class="control-group">
+                         <label class="control-label">Primary Industry</label>
+                                <div class="controls">
+                                    <input type="text" placeholder="Primary Industry">
+                                </div>
+                  </div> 
+  
+  
+                  <div class="control-group">
+                        <label class="control-label">Company Size</label>
+                              <div class="controls">
+                                   <input type="text" placeholder="Company Size">
+                              </div>
+                 </div>
+                 <div class="control-group">
+                        <label class="control-label">Email Address</label>
+                              <div class="controls">
+                                    <input type="text" placeholder="Email Address">
+                              </div>
+                 </div> 
+                 
+                 <div class="control-group">
+                        <label class="control-label">Phone</label>
+                              <div class="controls">
+                                    <input type="text" placeholder="Phone">
+                              </div>
+                 </div> 
+                 
+  
+  
+  
+  
+  
+  
+  
+               </form>
+             
+           </div>
+           
+           <div class="span3 sidenote">
+              <h3 id="sideheading">What we will discuss</h3>
+              <p class="operation-needs">Your operation and needs</p>
+              <p class="operation-needs">A demonstration of our official needs</p>
+              <p class="operation-needs">Details on pricing for your organization</p>
+              
+           </div>
+           
+           <div class="span2"></div>   
+       </div>    
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
     </div>
 </section>
 <!-- End Contact Section -->

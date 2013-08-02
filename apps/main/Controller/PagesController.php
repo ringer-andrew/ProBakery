@@ -93,4 +93,16 @@ class PagesController extends AppController {
     public function contact() {
         
     }
+    
+    public function success(){
+    	
+    }
+    
+    public function FAQ(){
+    	 
+    }
+    
+    public function career(){
+    	 
+    }
 }
