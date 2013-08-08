@@ -97,28 +97,20 @@
                                        <div class="span1"></div>                           
                                   </div>
 				             </div>  
-				                 <nav id="social-about">
-					             <ul>
-						           <li><a href="#" title=""><i class="font-icon-social-twitter"></i>
-						           </a></li>
-						           
-						           <li><a href="#" title=""><i class="font-icon-social-facebook"></i>
-						           </a></li>
-						
-						           <li><a href="#" title=""><i class="font-icon-social-dribbble"></i>
-						           </a></li>
-						
-						           <li><a href="#" title=""><i class="font-icon-social-behance"></i>
-						           </a></li>
-						
-						           <li><a href="#" title=""><i class="font-icon-social-email"></i> </a>
-						           </li>
-						           
-					             </ul>
-				                </nav>
-			               
-			              
-			               <h4>awesome@professionalperformance.ca  <h4>
+				                
+			                    <div class="container-fluid">
+			                         <div class="row-fluid">
+			                            
+			                             <div class="span1"></div>
+			                             <div class="span10">   
+			                                
+			                                 <p class="email-number">awesome@professionalperformance.ca  </p>
+			                                 <h2 class="email-number number-font" >1(800)296-7184</h2>
+			                             </div>
+			                             
+			                             <div class="span1"></div>    
+			                        </div>   
+                               </div>       
                                                 
                        </div> 
                        
@@ -133,11 +125,13 @@
      
      
      </div>
-   
+      
 </section>   
 
 <!-- Tweet box -->
 <section id="tweet">
+     <div class="lower-banner">
+      </div>
     <div class="container-fluid">
         <div class="row-fluid">
         	
