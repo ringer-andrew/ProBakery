@@ -49,8 +49,8 @@
                      </p>
                      
                           <div class="row-fluid">   
-                             <div class="span6"></div>
-                             <div class="span6">
+                             <div class="span7"></div>
+                             <div class="span5">
                              
                              <h3 class="suite-keypoints">Lorem Ipsum</h3>
                              <p class="suite-keypoints color">ipsum dolores est.Est<br>
