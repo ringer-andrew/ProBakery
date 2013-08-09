@@ -137,10 +137,14 @@
                 
                  <div class="span1"></div>
                  <div class="span5">
-                  <p class=" success-align">Lorem Ipsum is simply dummy text of the<br>
+                  <p class=" roi-align">Lorem Ipsum is simply dummy text of the<br>
                      printing and typesetting industry.Lorem<br> 
                      Ipsum has been the industry's standard<br> 
                      dummy text ever since the 1500s</p>
+                  <p class=" roi-align">Lorem Ipsum is simply dummy text of the<br>
+                     printing and typesetting industry.Lorem<br> 
+                     Ipsum has been the industry's standard<br> 
+                     dummy text ever since the 1500s</p>   
                      
                      <div class="btn-group success-align">
                      <a class="btn btn-large btn-info" href="#"> Request a Demo </a>
