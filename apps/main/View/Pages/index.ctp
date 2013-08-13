@@ -6,7 +6,7 @@
 
 
 <section >
-    <div class="container-fluid">
+    <div class="container-fluid home-height">
          <div class="row-fluid">
              <div class="span12">
               
@@ -14,16 +14,46 @@
                <TR>
 
                <TD id="slider" BACKGROUND="http://files-40f3c3d.professionalperformance.ca/img/slider/6N8A1329.jpg">
-
-               <FONT class="align">Connect with us.</FONT>
-                <p class="align">1(800)-296-7184</p>
-               
-              
-               <div id="support"></div>
-               <font id="summary">Mobile Health Support to Save Time and Improve Care
+                    <div class="container-fluid">
                     
-                  </font>
+                         <div class="row-fluid">
+                         
+                              <div class="span6 home-banner">
+                                  
+                                  <div class="container-fluid banner-text">
+                                       
+                                       <div class="row-fluid">
+                                       
+                                           <div class="span2"></div>
+                                           
+                                           
+                                           <div class="span10">
+                                           
+                                               <h2>We want to help you<br> help others </h2>
+                                  
+                                               <p class="home-top">Our powerful software suites make caring for<br> 
+                                                  your clients easier and more efficient. </p>
+                                     
+                                               <p class="home-top">Whether you employ dozens or thousands,<br>
+                                                  we have the tools to make you succeed</p>
+                                                  
+                                               <p class="home-connect">Connect with us.</p> 
+                                               <p class="home-connect">1 (800) 296-7184 </p> 
+                                                  
+                                           </div>
+                                           
+                                          
+                                                     
+                                         
+                              </div>
+                              
+                              <div class="span6">
+                              </div>
+                  
+                        </div>  
+                   </div>
                
+                 
                </TD>
 
                </TR>
