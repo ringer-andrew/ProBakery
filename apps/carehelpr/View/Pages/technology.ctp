@@ -133,9 +133,9 @@
                                         industry's standard dummy text ever since the 1500s.</p>   
                      
                   <ul>
-                     <li class="tech-list">Stuff happens when you click on things</li>
+                     <li class="tech-list"> <i class="icon-caret-right"></i>Stuff happens when you click on things</li>
                                              
-                     <li class="tech-list"> My computer is being real slow right now. Oh well.</li>
+                     <li class="tech-list"> <i class="icon-caret-right"></i> My computer is being real slow right now. Oh well.</li>
                   </ul>  
                 
                      <div class="btn-group button">
@@ -185,9 +185,9 @@
                                         industry's standard dummy text ever since the 1500s.</p>   
                      
                   <ul>
-                     <li class="tech-list2">Stuff happens when you click on things</li>
+                     <li class="tech-list2"> <i class="icon-caret-right"></i>Stuff happens when you click on things</li>
                                              
-                     <li class="tech-list2"> My computer is being real slow right now. Oh well.</li>
+                     <li class="tech-list2"> <i class="icon-caret-right"></i> My computer is being real slow right now. Oh well.</li>
                   </ul>  
                 
                      <div class="btn-group button">
@@ -243,9 +243,9 @@
                                         industry's standard dummy text ever since the 1500s.</p>   
                      
                   <ul>
-                     <li class="tech-list">Stuff happens when you click on things</li>
+                     <li class="tech-list"> <i class="icon-caret-right"></i>Stuff happens when you click on things</li>
                                              
-                     <li class="tech-list"> My computer is being real slow right now. Oh well.</li>
+                     <li class="tech-list"> <i class="icon-caret-right"></i> My computer is being real slow right now. Oh well.</li>
                   </ul>  
                 
                      <div class="btn-group button">

@@ -1,15 +1,18 @@
 <!-- Contact Section -->
 <section class="upsection">
     <div class="container-fluid">
+      <div class="row-fluid">
         <!-- Title Page -->
       <div id="upsection"> 
-          <div class="span5">
+          <div class="span1"></div>
+          <div class="span5 contact-box">
              <p class="contact-line">Talk to us to learn more about how we can help</p>
           </div>
           
-          <div class="span7"></div>
+          <div class="span6"></div>
       </div>    
-                         
+    </div>
+ </div>                        
 </section>       
        
 

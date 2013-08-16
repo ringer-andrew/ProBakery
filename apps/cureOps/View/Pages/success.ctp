@@ -9,8 +9,8 @@
                          
                                  <div class="span6">
                                  <div class="roi-heading">
-                                 <span id="roi-heading1">Health</span>
-                                 <span id="roi-heading2">Planr</span>
+                                 <span id="roi-heading1">Cure</span>
+                                 <span id="roi-heading2">Ops</span>
                                  </div>   
                          
                              <p class="roi-subheading">Empowering Homecare practitioners across North America</p>
@@ -24,7 +24,7 @@
                                 </div>   
                         
                                 <div class="span6">
-                                    <h2>Explore HealthPlanr</h2>
+                                    <h2>Explore CureOps</h2>
                                      <div class="icons"></div>   
                                 </div>
                                                                           
@@ -50,6 +50,23 @@
 					</div>
 					<div class="span2"></div>
 	</div>
+	
+	<div class="container-fluid">
+		<div class="success-nav row-fluid">
+			<div class="span12">
+				<ul class="success-menu">
+					<a><li>Our Beliefs</li> </a>
+					<a><li>Value 1</li> </a>
+					<a><li>Value 2</li> </a>
+					<a><li>Value 3</li> </a>
+					<a><li>Technology</li> </a>
+				</ul>
+
+			</div>
+		</div>
+
+	</div>
+	
 	
 	<div class="container-fluid">
             <div class="row-fluid">
@@ -161,9 +178,9 @@
                                         industry's standard dummy text ever since the 1500s.</p>   
                      
                   <ul>
-                     <li class="roi-list">Stuff happens when you click on things</li>
+                     <li class="roi-list"><i class="icon-caret-right"></i>Stuff happens when you click on things</li>
                                              
-                     <li class="roi-list"> My computer is being real slow right now. Oh well.</li>
+                     <li class="roi-list"><i class="icon-caret-right"></i> My computer is being real slow right now. Oh well.</li>
                   </ul>  
                 
                 <div class="span6"></div>
@@ -203,9 +220,16 @@
                                         industry's standard dummy text ever since the 1500s.</p>   
                      
                   <ul>
-                     <li class="roi-list2">Stuff happens when you click on things</li>
+                     <li class="roi-list2">
+                         
+                         <i class="icon-caret-right"></i>
+                         Stuff happens when you click on things
+                    </li>
                                              
-                     <li class="roi-list2"> My computer is being real slow right now. Oh well.</li>
+                     <li class="roi-list2">
+                         <i class="icon-caret-right"></i>              
+                            My computer is being real slow right now. Oh well.</li>
+                            
                   </ul>  
                 
                 
@@ -255,9 +279,13 @@
                                         industry's standard dummy text ever since the 1500s.</p>   
                      
                   <ul>
-                     <li class="roi-list">Stuff happens when you click on things</li>
+                     <li class="roi-list">
+                         <i class="icon-caret-right"></i>
+                         Stuff happens when you click on things</li>
                                              
-                     <li class="roi-list"> My computer is being real slow right now. Oh well.</li>
+                     <li class="roi-list">
+                          <i class="icon-caret-right"></i>
+                           My computer is being real slow right now. Oh well.</li>
                   </ul>  
                 
                 <div class="span6"></div>
@@ -298,9 +326,13 @@
                                         industry's standard dummy text ever since the 1500s.</p>   
                      
                   <ul>
-                     <li class="roi-list2">Stuff happens when you click on things</li>
+                     <li class="roi-list2">
+                         <i class="icon-caret-right"></i> 
+                         Stuff happens when you click on things</li>
                                              
-                     <li class="roi-list2"> My computer is being real slow right now. Oh well.</li>
+                     <li class="roi-list2">
+                         <i class="icon-caret-right"></i>
+                         My computer is being real slow right now. Oh well.</li>
                   </ul>  
                 
                 
@@ -349,9 +381,18 @@
                                         industry's standard dummy text ever since the 1500s.</p>   
                      
                   <ul>
-                     <li class="roi-list">Stuff happens when you click on things</li>
+                     <li class="roi-list">
+                        
+                        <i class="icon-caret-right"></i>
+                        Stuff happens when you click on things
+                    </li>
                                              
-                     <li class="roi-list"> My computer is being real slow right now. Oh well.</li>
+                     <li class="roi-list"> 
+                         
+                         
+                         <i class="icon-caret-right"></i>
+                         My computer is being real slow right now. Oh well.
+                    </li>
                   </ul>  
                 
                 <div class="span6"></div>

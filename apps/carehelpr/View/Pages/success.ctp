@@ -52,6 +52,22 @@
 	</div>
 	
 	<div class="container-fluid">
+		<div class="success-nav row-fluid">
+			<div class="span12">
+				<ul class="success-menu">
+					<a><li>Our Beliefs</li> </a>
+					<a><li>Value 1</li> </a>
+					<a><li>Value 2</li> </a>
+					<a><li>Value 3</li> </a>
+					<a><li>Technology</li> </a>
+				</ul>
+
+			</div>
+		</div>
+
+	</div>
+	
+	<div class="container-fluid">
             <div class="row-fluid">
                  <div class="span2"></div>
                  <div class="span8">
@@ -161,9 +177,9 @@
                                         industry's standard dummy text ever since the 1500s.</p>   
                      
                   <ul>
-                     <li class="roi-list">Stuff happens when you click on things</li>
+                     <li class="roi-list"> <i class="icon-caret-right"></i>Stuff happens when you click on things</li>
                                              
-                     <li class="roi-list"> My computer is being real slow right now. Oh well.</li>
+                     <li class="roi-list"> <i class="icon-caret-right"></i> My computer is being real slow right now. Oh well.</li>
                   </ul>  
                 
                 <div class="span6"></div>
@@ -203,9 +219,9 @@
                                         industry's standard dummy text ever since the 1500s.</p>   
                      
                   <ul>
-                     <li class="roi-list2">Stuff happens when you click on things</li>
+                     <li class="roi-list2"> <i class="icon-caret-right"></i>Stuff happens when you click on things</li>
                                              
-                     <li class="roi-list2"> My computer is being real slow right now. Oh well.</li>
+                     <li class="roi-list2"> <i class="icon-caret-right"></i> My computer is being real slow right now. Oh well.</li>
                   </ul>  
                 
                 
@@ -255,9 +271,9 @@
                                         industry's standard dummy text ever since the 1500s.</p>   
                      
                   <ul>
-                     <li class="roi-list">Stuff happens when you click on things</li>
+                     <li class="roi-list"> <i class="icon-caret-right"></i>Stuff happens when you click on things</li>
                                              
-                     <li class="roi-list"> My computer is being real slow right now. Oh well.</li>
+                     <li class="roi-list"> <i class="icon-caret-right"></i> My computer is being real slow right now. Oh well.</li>
                   </ul>  
                 
                 <div class="span6"></div>
@@ -298,9 +314,9 @@
                                         industry's standard dummy text ever since the 1500s.</p>   
                      
                   <ul>
-                     <li class="roi-list2">Stuff happens when you click on things</li>
+                     <li class="roi-list2"> <i class="icon-caret-right"></i>Stuff happens when you click on things</li>
                                              
-                     <li class="roi-list2"> My computer is being real slow right now. Oh well.</li>
+                     <li class="roi-list2"> <i class="icon-caret-right"></i> My computer is being real slow right now. Oh well.</li>
                   </ul>  
                 
                 
@@ -349,9 +365,9 @@
                                         industry's standard dummy text ever since the 1500s.</p>   
                      
                   <ul>
-                     <li class="roi-list">Stuff happens when you click on things</li>
+                     <li class="roi-list"> <i class="icon-caret-right"></i>Stuff happens when you click on things</li>
                                              
-                     <li class="roi-list"> My computer is being real slow right now. Oh well.</li>
+                     <li class="roi-list"> <i class="icon-caret-right"></i> My computer is being real slow right now. Oh well.</li>
                   </ul>  
                 
                 <div class="span6"></div>

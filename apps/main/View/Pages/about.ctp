@@ -1,46 +1,33 @@
-
-
-
-          
-     
-
 <section id="about">
-      <div class="container-fluid">   
-         <div class="row-fluid">
-            <div class="about-banner">    
-              
-              <div class="span1"></div>
-              <div class="span6">
-              
-                <h2 class="about-heading">Making health care better</h2>
-                <p id="about-subheading">We care about making sure that health practitioners have<br>
-                                         the best available tools to improve their patient's lives</p>           
-          
-               
-               <p class="about-paragraph">This should be about our vision for the future of<br> 
-                                          healthcare. (Our Vision)</p>
-               
-               <p class="about-paragraph">Professional Performance Inc. was founded with the<br>
-                                          simple idea of revolutionizing how mobile HealthCare<br>
-                                          works to improve the lives of practitioners and their<br>
-                                          patients. We empower HealthCare organizations of all<br>
-                                          sizes with the tools to streamline and improve their<br>
-                                          patient care.</p>   
-               
-               <p class="about-paragraph">Our suites are simple, innovative, and secure EHR<br>
-                                          platforms at the heart of your HealthCare IT. We<br>
-                                          empower organizations to better collaborate with their</p>                                                  
-                                          
-             </div>          
-             <div class="span5"></div>          
-                     
-         </div>
-          
-       </div>   
-           
-     </div>
-     
+		     
+	 <div class="about-banner">
+	 
+	 	<div class="container-fluid">
+		 	<div class="row-fluid">		
+		 		<div class="span1"></div>
+		 		
+		 		<div class="span6 about-box">
+		 			<p id="about-heading">Making healthcare better</p>
+		 			<p id="about-headingtext">We care about making sure tht health practitioners have<br/>
+		               the best available tool to improve their patients' lives 			
+		 			</p>
+		 			
+			 	</div>
+		 		
+		 		<div class="span5"></div>
+	       </div>
+	  	</div>      
+	 
+	 
+	 </div>		
+	 
+	      
+		      
+		     
+    
      <div class="about-banner2"></div>
+     
+     
      
      <div class="aboutus">
           <div class="container-fluid">
@@ -50,7 +37,35 @@
                    
                              
                    <div class="span7">   
-                      <h2 class="about-heading">About us</h2>
+                     
+                      <p class="about-heading">Our Beliefs</h2>
+                      <p class="about-paragraph">Professional Performance is a healthcare IT problem-solver We strive to provide the<br>
+                      	                         best answers for healthcare practitioners and their organization</p>  
+                      <p class="about-paragraph">Guiding us to the right path are our three core beliefs:</p>
+                      	                         
+                      <h4 class="about-subheading">Streamlining should be simple</h4>
+                      
+                      <p>
+                         Many healthcare solutions are designed by developers, with no interest in making <br/>
+                         things easy to learn or simple for those working in the field.  A new tool that's hard to<br>
+                         learn and tricky to use doesn't streamline your workflow or make your job easier. <br>
+                         We strive to integrate intricate adaptable and multi-tooled software with intuitive<br>
+                         design and easy learning curves
+                      </p>
+                      
+                      <h4 class="about-subheading">Practical, realistically designed solutions</h4>
+                      <p>Why overburden your solutions with options you will never use, and shouldn't be <br>
+                        expected to pay for? Our software is purpose-built; no unnecessary features to clog<br>
+                        up the works, and designed with realistic expectations and practical usage in minds</p>
+                        
+                      <h4 class="about-subheading">Your Patients come first</h4>	                         
+                       <p>Above all else, we measure how successful our solutions are with the impact we make<br>
+                          on your quality of care.We don't believe in cutting corners on your patients' and clients'<br>
+                          experience.Our products are built to ultimately provide you and your team with the <br>
+                          best tools to care for your patients. </p>
+                       
+                       	                         
+                      <p class="about-heading">About us</h2>
                       <p class="about-paragraph">Professional Performance Inc. was founded with the simple idea of revolutionizing how <br>
                                                  mobile HealthCare works to improve the lives of practitioners and their patients. We <br>
                                                  empower HealthCare organizations of all sizes with the tools to streamline and improve <br>
@@ -61,9 +76,8 @@
                                                  workforce in the field, make smarter decisions and improve quality of care</p>                           
                        
                      </div>
-                   
-                   
-                      <div class="span4">
+                     
+                     <div class="span4">
                          
                            <div class="about-news">  
                                <div class="container-fluid">
@@ -97,8 +111,8 @@
                                        <div class="span1"></div>                           
                                   </div>
 				             </div>  
-				                
-			                    <div class="container-fluid">
+				             
+				              <div class="container-fluid">
 			                         <div class="row-fluid">
 			                            
 			                             <div class="span1"></div>
@@ -113,22 +127,16 @@
                                </div>       
                                                 
                        </div> 
-                       
-                        
-                            
-                                           
-                   
-                   
-                   </div>
-               </div>     
+                     
+              </div>
           </div>
-     
-     
-     </div>
+      </div>
       
-</section>   
-
-<!-- Tweet box -->
+                   
+     
+ </section>    
+ 
+ <!-- Tweet box -->
 <section id="tweet">
      <div class="lower-banner">
       </div>

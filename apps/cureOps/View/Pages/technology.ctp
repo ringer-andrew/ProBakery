@@ -10,8 +10,8 @@
                          
                                  <div class="span6">
                                  <div class="tech-heading">
-                                 <span id="tech-heading1">Health</span>
-                                 <span id="tech-heading2">Planr</span>
+                                 <span id="tech-heading1">Cure</span>
+                                 <span id="tech-heading2">Ops</span>
                                  </div>   
                          
                              <p class="tech-subheading">Empowering Homecare practitioners across North America</p>
@@ -25,7 +25,7 @@
                                 </div>   
                         
                                 <div class="span6">
-                                    <h2>Explore HealthPlanr</h2>
+                                    <h2>Explore CureOps</h2>
                                      <div class="icons"></div>   
                                 </div>
                                                                           
@@ -133,9 +133,9 @@
                                         industry's standard dummy text ever since the 1500s.</p>   
                      
                   <ul>
-                     <li class="tech-list">Stuff happens when you click on things</li>
+                     <li class="tech-list"> <i class="icon-caret-right"></i>Stuff happens when you click on things</li>
                                              
-                     <li class="tech-list"> My computer is being real slow right now. Oh well.</li>
+                     <li class="tech-list"> <i class="icon-caret-right"></i> My computer is being real slow right now. Oh well.</li>
                   </ul>  
                 
                      <div class="btn-group button">
@@ -185,9 +185,9 @@
                                         industry's standard dummy text ever since the 1500s.</p>   
                      
                   <ul>
-                     <li class="tech-list2">Stuff happens when you click on things</li>
+                     <li class="tech-list2"> <i class="icon-caret-right"></i>Stuff happens when you click on things</li>
                                              
-                     <li class="tech-list2"> My computer is being real slow right now. Oh well.</li>
+                     <li class="tech-list2"> <i class="icon-caret-right"></i> My computer is being real slow right now. Oh well.</li>
                   </ul>  
                 
                      <div class="btn-group button">
@@ -243,9 +243,9 @@
                                         industry's standard dummy text ever since the 1500s.</p>   
                      
                   <ul>
-                     <li class="tech-list">Stuff happens when you click on things</li>
+                     <li class="tech-list"> <i class="icon-caret-right"></i>Stuff happens when you click on things</li>
                                              
-                     <li class="tech-list"> My computer is being real slow right now. Oh well.</li>
+                     <li class="tech-list"> <i class="icon-caret-right"></i> My computer is being real slow right now. Oh well.</li>
                   </ul>  
                 
                      <div class="btn-group button">
