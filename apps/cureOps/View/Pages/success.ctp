@@ -40,10 +40,10 @@
 					<div class="span2"></div>
 					<div class="span8">
 						<ul class="suite-menu">
-							<a ><li>Home</li> </a>
-							<a><li>Technology</li> </a>
+							<a href="http://localhost:9005/" ><li>Home</li> </a>
+							<a href="technology"><li>Technology</li> </a>
 							<a><li>How it works</li> </a>
-							<a><li>About us</li> </a>
+							<a href="about"><li>About us</li> </a>
 							
 						</ul>
 						
@@ -59,7 +59,7 @@
 					<a><li>Value 1</li> </a>
 					<a><li>Value 2</li> </a>
 					<a><li>Value 3</li> </a>
-					<a><li>Technology</li> </a>
+					<a href="technology"><li>Technology</li> </a>
 				</ul>
 
 			</div>

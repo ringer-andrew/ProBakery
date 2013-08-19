@@ -41,10 +41,10 @@
 		<div class="span2"></div>
 		<div class="span8">
 			<ul class="suite-menu">
-				<a><li>Home</li> </a>
-				<a><li>Technology</li> </a>
+				<a href="http://localhost:9003/"><li>Home</li> </a>
+				<a href="technology"><li>Technology</li> </a>
 				<a><li>How it works</li> </a>
-				<a><li>About us</li> </a>
+				<a href="http://localhost:9002/about"><li>About us</li> </a>
 
 			</ul>
 
@@ -55,11 +55,11 @@
 		<div class="success-nav row-fluid">
 			<div class="span12">
 				<ul class="success-menu">
-					<a><li>Our Beliefs</li> </a>
-					<a><li>Value 1</li> </a>
-					<a><li>Value 2</li> </a>
-					<a><li>Value 3</li> </a>
-					<a><li>Technology</li> </a>
+					<a href="#"><li>Our Beliefs</li> </a>
+					<a href="#"><li>Value 1</li> </a>
+					<a href="#"><li>Value 2</li> </a>
+					<a href="#"><li>Value 3</li> </a>
+					<a href="technology"><li>Technology</li> </a>
 				</ul>
 
 			</div>

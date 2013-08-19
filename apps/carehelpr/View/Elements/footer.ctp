@@ -15,7 +15,7 @@
 						<ul class="menu">
 							<a><li>Company</li> </a>
 							<a><li>Press</li> </a>
-							<a><li>Contact</li> </a>
+							<a href="http://localhost:9002/contact"><li>Contact</li> </a>
 							<a><li>Blog</li> </a>
 						</ul>
 					</div>

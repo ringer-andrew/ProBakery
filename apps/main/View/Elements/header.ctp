@@ -15,7 +15,7 @@
                         <li class="list"><a href="success">Your success</a>
                        </li>
                         
-                         <li class="list"><a href="#">Suites</a></li>
+                         <li class="list"><a href="http://localhost:9003/">Suites</a></li>
                          <li class="list"><a href="#">Industry</a></li>
                          <li class="list"><a href="#">Company</a>
                          

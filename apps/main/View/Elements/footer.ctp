@@ -13,10 +13,10 @@
 				<div class="footer-menu row-fluid">
 					<div class="span12">
 						<ul class="menu">
-							<a><li>Company</li> </a>
-							<a><li>Press</li> </a>
-							<a><li>Contact</li> </a>
-							<a><li>Blog</li> </a>
+							<a href="#"><li>Company</li> </a>
+							<a href="#"><li>Press</li> </a>
+							<a href="contact"><li>Contact</li> </a>
+							<a href="#"><li>Blog</li> </a>
 						</ul>
 					</div>
 				</div>
@@ -31,15 +31,15 @@
 			<div class="span4 center">
 				<nav id="social-footer">
 					<ul>
-						<li><a href="#" title=""><i class="font-icon-social-twitter"></i>
+						<li><a href="https://twitter.com/ProfPerformance" title=""><i class="font-icon-social-twitter"></i>
 						</a></li>
-						<li><a href="#" title=""><i class="font-icon-social-facebook"></i>
+						<li><a href="http://www.linkedin.com/company/professional-performance-inc." title=""><i class="font-icon-social-linkedin"></i>
 						</a></li>
-						<li><a href="#" title=""><i class="font-icon-social-dribbble"></i>
+						<li><a href="http://www.flickr.com/photos/properformance" title=""><i class="font-icon-social-flickr"></i>
 						</a></li>
-						<li><a href="#" title=""><i class="font-icon-social-behance"></i>
+						<li><a href="http://www.youtube.com/user/ProfessPerformance" title=""><i class="font-icon-social-youtube"></i>
 						</a></li>
-						<li><a href="#" title=""><i class="font-icon-social-email"></i> </a>
+						<li><a href="https://plus.google.com/112155686786417428572/posts" title=""><i class="font-icon-social-email"></i> </a>
 						</li>
 					</ul>
 				</nav>

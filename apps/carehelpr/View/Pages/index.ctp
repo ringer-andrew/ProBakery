@@ -26,10 +26,10 @@
 		<div class="span2"></div>
 		<div class="span8">
 			<ul class="suite-menu">
-				<a><li>Home</li> </a>
-				<a><li>Technology</li> </a>
+				<a href="http://localhost:9004/"><li>Home</li> </a>
+				<a href="technology"><li>Technology</li> </a>
 				<a><li>How it works</li> </a>
-				<a><li>About us</li> </a>
+				<a href="http://localhost:9002/about"><li>About us</li> </a>
 
 			</ul>
 

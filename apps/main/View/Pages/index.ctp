@@ -45,6 +45,58 @@
 
 													<p class="home-connect">Connect with us.</p>
 													<p class="home-connect">1 (800) 296-7184</p>
+													<div class="container-fluid">
+														<div class="row-fluid">
+															
+															<div class="span6">
+																<div class="container-fluid">
+																	<div class="row-fluid home-social">
+																		<div class="span1"></div>
+
+																		<div class="span2">
+																			<a href="https://twitter.com/ProfPerformance"><i
+																				class="icon-twitter"></i> </a>
+																		</div>
+
+																		<div class="span2">
+																			<a
+																				href="http://www.linkedin.com/company/professional-performance-inc."<i
+																				class="icon-linkedin"></i> </a>
+																		</div>
+
+																		<div class="span2">
+																			<a href="http://www.flickr.com/photos/properformance"<i
+																				class="icon-flickr"></i> </a>
+																		</div>
+
+
+																		<div class="span2">
+																			<a
+																				href="http://www.youtube.com/user/ProfessPerformance"<i
+																				class="icon-youtube"></i> </a>
+																		</div>
+
+																		<div class="span2">
+																			<a
+																				href="https://plus.google.com/112155686786417428572/posts"<i
+																				class="icon-google-plus"></i> </a>
+																		</div>
+
+
+
+
+																		<div class="span1"></div>
+
+
+																	</div>
+																</div>
+															</div>
+															
+															<div class="span6"></div>
+															
+														</div>
+
+													</div>
 
 												</div>
 
