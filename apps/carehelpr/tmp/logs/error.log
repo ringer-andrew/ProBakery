@@ -37468,3 +37468,66 @@ Request URL: /favicon.ico
 Stack Trace:
 #0 C:\Users\Walid\workspace\ProBakery\apps\carehelpr\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2013-08-19 15:38:24 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /favicon.ico
+Stack Trace:
+#0 C:\Users\Walid\workspace\ProBakery\apps\carehelpr\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-19 15:38:26 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /favicon.ico
+Stack Trace:
+#0 C:\Users\Walid\workspace\ProBakery\apps\carehelpr\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-19 15:38:37 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /favicon.ico
+Stack Trace:
+#0 C:\Users\Walid\workspace\ProBakery\apps\carehelpr\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-19 15:38:45 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /favicon.ico
+Stack Trace:
+#0 C:\Users\Walid\workspace\ProBakery\apps\carehelpr\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-19 15:38:46 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /favicon.ico
+Stack Trace:
+#0 C:\Users\Walid\workspace\ProBakery\apps\carehelpr\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-19 15:38:58 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /favicon.ico
+Stack Trace:
+#0 C:\Users\Walid\workspace\ProBakery\apps\carehelpr\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-19 15:38:59 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /favicon.ico
+Stack Trace:
+#0 C:\Users\Walid\workspace\ProBakery\apps\carehelpr\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}

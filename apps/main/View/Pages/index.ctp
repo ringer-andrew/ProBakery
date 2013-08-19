@@ -49,47 +49,21 @@
 														<div class="row-fluid">
 															
 															<div class="span6">
-																<div class="container-fluid">
-																	<div class="row-fluid home-social">
-																		<div class="span1"></div>
-
-																		<div class="span2">
-																			<a href="https://twitter.com/ProfPerformance"><i
-																				class="icon-twitter"></i> </a>
-																		</div>
-
-																		<div class="span2">
-																			<a
-																				href="http://www.linkedin.com/company/professional-performance-inc."<i
-																				class="icon-linkedin"></i> </a>
-																		</div>
-
-																		<div class="span2">
-																			<a href="http://www.flickr.com/photos/properformance"<i
-																				class="icon-flickr"></i> </a>
-																		</div>
-
-
-																		<div class="span2">
-																			<a
-																				href="http://www.youtube.com/user/ProfessPerformance"<i
-																				class="icon-youtube"></i> </a>
-																		</div>
-
-																		<div class="span2">
-																			<a
-																				href="https://plus.google.com/112155686786417428572/posts"<i
-																				class="icon-google-plus"></i> </a>
-																		</div>
-
-
-
-
-																		<div class="span1"></div>
-
-
-																	</div>
-																</div>
+																 <div class="social-news">
+									        	<ul>
+									        		
+									        		 <li><a class="facebook" href="https://www.facebook.com/whistlelabs" target="_blank">&nbsp;</a></li>
+									        		<li><a class="twitter" href="https://twitter.com/whistlelabs" target="_blank">&nbsp;</a></li>
+									        	    <li><a class="pinterest" href="http://pinterest.com/whistlelabs/" target="_blank">&nbsp;</a></li>
+									        	    <li><a class="instagram" href="http://instagram.com/whistlelabs" target="_blank">&nbsp;</a></li>
+									        	    <li><a class="google" href="https://plus.google.com/106435854082836687834" target="_blank">&nbsp;</a></li>
+									        	   
+									        	    
+									        	
+									        	</ul>
+									        
+									        </div>
+									    
 															</div>
 															
 															<div class="span6"></div>
@@ -105,7 +79,7 @@
 
 											</div>
 
-											<div class="span6"></div>
+											
 
 										</div>
 									</div>
