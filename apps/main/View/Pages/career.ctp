@@ -88,10 +88,10 @@
 									        	<ul>
 									        		
 									        		 <li><a class="facebook" href="https://www.facebook.com/whistlelabs" target="_blank">&nbsp;</a></li>
-									        		<li><a class="twitter" href="https://twitter.com/whistlelabs" target="_blank">&nbsp;</a></li>
+									        		<li><a class="https://twitter.com/ProfPerformance" target="_blank">&nbsp;</a></li>
 									        	    <li><a class="pinterest" href="http://pinterest.com/whistlelabs/" target="_blank">&nbsp;</a></li>
 									        	    <li><a class="instagram" href="http://instagram.com/whistlelabs" target="_blank">&nbsp;</a></li>
-									        	    <li><a class="google" href="https://plus.google.com/106435854082836687834" target="_blank">&nbsp;</a></li>
+									        	    <li><a class="google" href="https://plus.google.com/112155686786417428572/posts" target="_blank">&nbsp;</a></li>
 									        	   
 									        	    
 									        	
